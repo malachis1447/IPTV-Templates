@@ -24,13 +24,10 @@ https://cvtv.cvalley.net/hls/KSHBCozi/KSHBCozi.m3u8
 #EXTINF:-1 tvg-id="PBS.(KUED).Salt.Lake.City,.UT.us" tvg-logo="https://image.pbs.org/stations/kued-color-logo-QzVe4jk.png",7.1 - PBS - Salt Lake City UT (KUED) (1080p)
 https://kueddt.lls.cdn.pbs.org/kueddt/b0784447-7908-43f6-b188-9d6a30102ea3/primary.m3u8
 
-#EXTINF:-1 tvg-id="PBS.(KUED).Salt.Lake.City,.UT.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/ESPN_wordmark.svg/554px-ESPN_wordmark.svg.png",7.1 - ESPN (1080p)
+#EXTINF:-1 tvg-id="ESPN" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/ESPN_wordmark.svg/554px-ESPN_wordmark.svg.png",206 - ESPN (1080p)
 https://nl1.streamlive.to/live/streamlive-sd/streamlive-sd/3636.m3u8
 
-#EXTINF:-1 tvg-logo="https://1000logos.net/wp-content/uploads/2017/01/ESPN-Logo.jpg" group-title="SPORTS",[TW] ESPN 
-http://iptv12k.com:35461/654321/123456/14434
-
-#EXTINF:-1 tvg-id="ESPN2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/ESPN_wordmark.svg/554px-ESPN_wordmark.svg.png",7.1 - ESPN2 (1080p)
+#EXTINF:-1 tvg-id="ESPN2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/ESPN2_logo.svg/512px-ESPN2_logo.svg.png",209 - ESPN2 (1080p)
 http://fl2.moveonjoy.com/ESPN_2/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/CwMZcpP/sky-main-event.png" group-title="UK SPORTS",UK | Sky Sports Main Event
