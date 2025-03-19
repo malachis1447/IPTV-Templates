@@ -1,6 +1,6 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-id="CBS.(KUTV).Salt.Lake.City,.UT.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/CBS_logo_%282020%29.svg/512px-CBS_logo_%282020%29.svg.png",2.1 - CBS Salt Lake City (KUTV) (1080p)
+#EXTINF:-1 tvg-id="2.1 - CBS Salt Lake City (KUTV)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/CBS_logo_%282020%29.svg/512px-CBS_logo_%282020%29.svg.png",2.1 - CBS Salt Lake City (KUTV) (1080p)
 https://dai.google.com/linear/hls/pa/event/nX7afHUAQZGDMuLBvWG6AA/stream/ff5d50ce-357a-4013-ac56-9fff6e672fa3:CBF2/master.m3u8
 
 #EXTINF:-1 tvg-id="MNT.(WHVL).Johnstown,.PA.us" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/54/MyNetworkTV_%283D%29.svg/revision/latest/smart/width/386/height/259?cb=20231122005828",2.2 - MyNetwork - State College PA (WHVL) (720p)
@@ -24,26 +24,80 @@ https://cvtv.cvalley.net/hls/KSHBCozi/KSHBCozi.m3u8
 #EXTINF:-1 tvg-id="PBS.(KUED).Salt.Lake.City,.UT.us" tvg-logo="https://image.pbs.org/stations/kued-color-logo-QzVe4jk.png",7.1 - PBS - Salt Lake City UT (KUED) (1080p)
 https://kueddt.lls.cdn.pbs.org/kueddt/b0784447-7908-43f6-b188-9d6a30102ea3/primary.m3u8
 
-#EXTINF:-1 tvg-id="ESPN" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/ESPN_wordmark.svg/554px-ESPN_wordmark.svg.png",206 - ESPN (1080p)
+#EXTINF:-1 tvg-id="Ch. 206 - ESPN" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/ESPN_wordmark.svg/554px-ESPN_wordmark.svg.png",206 - ESPN (1080p)
 https://nl1.streamlive.to/live/streamlive-sd/streamlive-sd/3636.m3u8
 
-#EXTINF:-1 tvg-id="ESPN2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/ESPN2_logo.svg/512px-ESPN2_logo.svg.png",209 - ESPN2 (1080p)
+#EXTINF:-1 tvg-id="Ch. 209 - ESPN2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/ESPN2_logo.svg/512px-ESPN2_logo.svg.png",209 - ESPN2 (1080p)
 http://fl2.moveonjoy.com/ESPN_2/index.m3u8
 
-#EXTINF:-1 tvg-id="Sky Sports" tvg-logo="https://i.ibb.co/CwMZcpP/sky-main-event.png" group-title="UK SPORTS",UK | 409 - Sky Sports Main Event
+#EXTINF:-1 tvg-id="Ch. 409 - Sky Sports News" tvg-logo="https://i.ibb.co/CwMZcpP/sky-main-event.png" group-title="UK SPORTS",UK | 409 - Sky Sports News
 https://a1xs.vip/2000001
 
-#EXTINF:-1 tvg-id="AMC" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/AMC_logo_2019.svg/512px-AMC_logo_2019.svg.png" | 254 - AMC (East)
+#EXTINF:-1 tvg-id="Ch. 254 - AMC (East)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/AMC_logo_2019.svg/512px-AMC_logo_2019.svg.png" | 254 - AMC (East)
 http://fl5.moveonjoy.com/AMC_NETWORK/index.m3u8
 
-#EXTINF:-1 tvg-id="BBC America East" tvg-logo="https://i.imgur.com/pTiiPz0.png" | 254 - AMC (East)
+#EXTINF:-1 tvg-id="Ch. 264 - BBC America" tvg-logo="https://i.imgur.com/pTiiPz0.png" | 264 - BBC America (East)
 http://fl2.moveonjoy.com/BBC_AMERICA/index.m3u8
 
-#EXTINF:-1 tvg-id="CBS.(KDKA).Pittsburgh,.PA.us" tvg-logo="https://i.imgur.com/Un9IrUh.png" | 11 - CBS News Pittsburgh
+#EXTINF:-1 tvg-id="Ch. 11 - CBS News Pittsburgh" tvg-logo="https://i.imgur.com/Un9IrUh.png" | 11 - CBS News Pittsburgh
 https://cbsn-pit.cbsnstream.cbsnews.com/out/v1/6966dabf8150405ab26f854e3cd6a2b8/master.m3u8
 
-#EXTINF:-1 tvg-id="CNBC" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/CNBC_logo.svg/512px-CNBC_logo.svg.png" | 355 - CNBC
+#EXTINF:-1 tvg-id="Ch. 355 - CNBC" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/CNBC_logo.svg/512px-CNBC_logo.svg.png" | 355 - CNBC
 http://fl2.moveonjoy.com/CNBC/index.m3u8
 
-#EXTINF:-1 tvg-id="DisneyChannel" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/Disney_Channel_logo_%282014%29.svg/512px-Disney_Channel_logo_%282014%29.svg.png" | 290 - Disney Channel
+#EXTINF:-1 tvg-id="Ch. 290 - Disney Channel" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/Disney_Channel_logo_%282014%29.svg/512px-Disney_Channel_logo_%282014%29.svg.png" | 290 - Disney Channel
 https://tvpass.org/live/DisneyChannelEast/hd
+
+#EXTINF:-1 tvg-id="Ch. 292 - Disney XD (East)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Disney_XD_-_2015.svg/512px-Disney_XD_-_2015.svg.png" | 292 - Disney XD
+https://tvpass.org/live/DisneyXDEast/hd
+
+#EXTINF:-1 tvg-id="Ch. 248 - FX (East)" tvg-logo="https://i.imgur.com/ZScwrpi.png" | 248 - FX
+http://fl2.moveonjoy.com/FX/index.m3u8
+
+#EXTINF:-1 tvg-id="Ch. 81 - Grit" tvg-logo="https://i.imgur.com/6w1Wj3j.png" | 81 - Grit
+http://fl2.moveonjoy.com/GRIT_TV/index.m3u8 
+
+#EXTINF:-1 tvg-id="Ch. 312 - Hallmark Channel" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/Hallmark_Channel.svg/512px-Hallmark_Channel.svg.png" | 312 - Grit
+http://fl2.moveonjoy.com/HALLMARK_CHANNEL/index.m3u8
+
+#EXTINF:-1 tvg-id="Ch. 501 - HBO" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/HBO_logo.svg/512px-HBO_logo.svg.png" | 501 - HBO
+https://list.iptvcat.com/my_list/s/35683a996d90df434a4e82db529c7eec.m3u8
+
+#EXTINF:-1 tvg-id="Ch. 305 - ION TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/28/Ion_logo.svg/512px-Ion_logo.svg.png" | 305 - ION TV
+http://fl2.moveonjoy.com/ION_TV/index.m3u8
+
+#EXTINF:-1 tvg-id="Ch. 305 - ION+" tvg-logo="https://i.imgur.com/1dgCvNE.png" | 305 - ION+
+http://fl3.moveonjoy.com/ION_Plus/index.m3u8
+
+#EXTINF:-1 tvg-id="Ch. 70 - HSN" tvg-logo="https://m.media-amazon.com/images/I/419RyCp4+WL.png" | 70 - HSN
+https://qvc-amd-live.akamaized.net/hls/live/2034113/lshsn1uswest/master.m3u8
+
+#EXTINF:-1 tvg-id="Ch. 356 - MSNBC" tvg-logo="https://i.imgur.com/kGUR6NE.png" | 356 - MSNBC
+https://qvc-amd-live.akamaized.net/hls/live/2034113/lshsn1uswest/master.m3u8
+
+#EXTINF:-1 tvg-id="Ch. 276 - National Geographic HD" tvg-logo="https://i.imgur.com/8vp2CdP.png" | 276 - National Geographic
+https://tvpass.org/live/NationalGeographicEast/hd
+
+#EXTINF:-1 tvg-id="Ch. 283 - National Geographic Wild" tvg-logo="https://i.imgur.com/WEv09Ak.png" | 283 - National Geographic Wild
+https://tvpass.org/live/NationalGeographicWildEast/hd
+
+#EXTINF:-1 tvg-id="Ch. 210 - NFL Channel" tvg-logo="https://i.imgur.com/mPGtwAP.png" | 210 - NFL Channel
+http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5ced7d5df64be98e07ed47b6/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c2a5105-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=6477ef85-3680-442c-94d8-27197903b1f6
+
+#EXTINF:-1 tvg-id="Ch. 211 - NFL RedZone" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/8/8f/NFL_Network_logo.svg/512px-NFL_Network_logo.svg.png" | 211 - NFL RedZone
+http://fl2.moveonjoy.com/NFL_NETWORK/index.m3u8
+
+#EXTINF:-1 tvg-id="Ch. 212 - NFL Network" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/8/8f/NFL_Network_logo.svg/512px-NFL_Network_logo.svg.png" | 212 - NFL Network
+https://tvpass.org/live/NFLRedZone/hd
+
+#EXTINF:-1 tvg-id="Ch. 299 - Nickelodeon" tvg-logo="https://i.imgur.com/E84jnP8.png" | 299 - Nickelodeon
+http://fl1.moveonjoy.com/NICKELODEON/index.m3u8
+
+#EXTINF:-1 tvg-id="Ch. 546 - Paramount Movie Channel" tvg-logo="https://i.imgur.com/sj5h9bl.png" | 546 - Paramount Movie Channel
+http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5cb0cae7a461406ffe3f5213/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c2a7819-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=8a4a0712-cb24-4d05-b429-1b98c1f73f74
+
+#EXTINF:-1 tvg-id="Ch. 241 - Paramount Network" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Paramount_Network.svg/512px-Paramount_Network.svg.png" | 241 - Paramount Network
+http://fl2.moveonjoy.com/PARAMOUNT_NETWORK/index.m3u8
+
+#EXTINF:-1 tvg-id="Ch. 545 - Paramount+ Picks" tvg-logo="https://images.pluto.tv/channels/5ff8c708653d080007361b14/featuredImage.jpg" | 545 - Paramount+ Picks
+http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5ff8c708653d080007361b14/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c2a9f20-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=86df5336-6268-4928-9b7d-3af618ca807b
