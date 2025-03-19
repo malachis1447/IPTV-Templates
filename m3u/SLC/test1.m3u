@@ -30,5 +30,20 @@ https://nl1.streamlive.to/live/streamlive-sd/streamlive-sd/3636.m3u8
 #EXTINF:-1 tvg-id="ESPN2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/ESPN2_logo.svg/512px-ESPN2_logo.svg.png",209 - ESPN2 (1080p)
 http://fl2.moveonjoy.com/ESPN_2/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/CwMZcpP/sky-main-event.png" group-title="UK SPORTS",UK | Sky Sports Main Event
+#EXTINF:-1 tvg-id="Sky Sports" tvg-logo="https://i.ibb.co/CwMZcpP/sky-main-event.png" group-title="UK SPORTS",UK | 409 - Sky Sports Main Event
 https://a1xs.vip/2000001
+
+#EXTINF:-1 tvg-id="AMC" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/AMC_logo_2019.svg/512px-AMC_logo_2019.svg.png" | 254 - AMC (East)
+http://fl5.moveonjoy.com/AMC_NETWORK/index.m3u8
+
+#EXTINF:-1 tvg-id="BBC America East" tvg-logo="https://i.imgur.com/pTiiPz0.png" | 254 - AMC (East)
+http://fl2.moveonjoy.com/BBC_AMERICA/index.m3u8
+
+#EXTINF:-1 tvg-id="CBS.(KDKA).Pittsburgh,.PA.us" tvg-logo="https://i.imgur.com/Un9IrUh.png" | 11 - CBS News Pittsburgh
+https://cbsn-pit.cbsnstream.cbsnews.com/out/v1/6966dabf8150405ab26f854e3cd6a2b8/master.m3u8
+
+#EXTINF:-1 tvg-id="CNBC" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/CNBC_logo.svg/512px-CNBC_logo.svg.png" | 355 - CNBC
+http://fl2.moveonjoy.com/CNBC/index.m3u8
+
+#EXTINF:-1 tvg-id="DisneyChannel" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/Disney_Channel_logo_%282014%29.svg/512px-Disney_Channel_logo_%282014%29.svg.png" | 290 - Disney Channel
+https://tvpass.org/live/DisneyChannelEast/hd
