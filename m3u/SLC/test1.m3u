@@ -26,3 +26,9 @@ https://kueddt.lls.cdn.pbs.org/kueddt/b0784447-7908-43f6-b188-9d6a30102ea3/prima
 
 #EXTINF:-1 tvg-id="PBS.(KUED).Salt.Lake.City,.UT.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/ESPN_wordmark.svg/554px-ESPN_wordmark.svg.png",7.1 - ESPN (1080p)
 https://nl1.streamlive.to/live/streamlive-sd/streamlive-sd/3636.m3u8
+
+#EXTINF:-1, ESPN
+http://78.129.179.33:1935/edge/520/playlist.m3u8?token&bid=12&pid=5&uid=250668&did=4f7b236fb7362bb13b91a099ba65374e&g=1&gm=1&platform=3
+#EXTINF:-1, ESPN2
+http://78.129.179.33:1935/edge/522/playlist.m3u8?token&bid=12&pid=5&uid=250668&did=4f7b236fb7362bb13b91a099ba65374e&g=1&gm=1&platform=3
+
