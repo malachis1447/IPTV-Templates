@@ -5,6 +5,10 @@ https://nl1.streamlive.to/live/streamlive-sd/streamlive-sd/3636.m3u8
 #EXTINF:-1 tvg-id="33 ESPN2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/ESPN2_logo.svg/512px-ESPN2_logo.svg.png",33 ESPN2 (1080p)
 http://fl2.moveonjoy.com/ESPN_2/index.m3u8
 
+
+#EXTINF:-1 tvg-id="5 KSL-TV NBC" tvg-logo="https://cdn.bonneville.cloud/i/KSL-TV/custom_320x240.webp",5 KSL-TV
+https://fuel-streaming-prod01.fuelmedia.io/v1/sep/92aabbaf-6432-4f1f-900f-7308619f91bf/4c674289-8bca-4dae-a7ee-1c8338d44961/6S2000K540AWS/SM/content.m3u8
+
 #EXTINF:-1 tvg-id="93. Sky Sports News" tvg-logo="https://i.ibb.co/CwMZcpP/sky-main-event.png",93 Sky Sports News
 https://a1xs.vip/2000001
 
@@ -47,7 +51,7 @@ http://fl3.moveonjoy.com/ION_Plus/index.m3u8
 #EXTINF:-1 tvg-id="176 HSN" tvg-logo="https://m.media-amazon.com/images/I/419RyCp4+WL.png",176 HSN
 https://qvc-amd-live.akamaized.net/hls/live/2034113/lshsn1uswest/master.m3u8
 
-#EXTINF:-1 tvg-id="203 MSNBC" tvg-logo="https://i.imgur.com/kGUR6NE.png",203 MSNBC
+#EXTINF:-1 tvg-id="42.1 MSNBC" tvg-logo="https://i.imgur.com/kGUR6NE.png",42.1 MSNBC
 https://qvc-amd-live.akamaized.net/hls/live/2034113/lshsn1uswest/master.m3u8
 
 #EXTINF:-1 tvg-id="129 National Geographic HD" tvg-logo="https://i.imgur.com/8vp2CdP.png",129 National Geographic
@@ -139,3 +143,75 @@ http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5f
 
 #EXTINF:-1 tvg-id="54 A&E" tvg-logo="https://i.imgur.com/dZHktKR.png",54 A&E
 https://tvpass.org/live/AEEast/hd
+
+#EXTINF:-1 tvg-id="40 CNN" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b1/CNN.svg",40 CNN
+https://list.iptvcat.com/my_list/s/66b990856d508ac46fb6da1ca7c01ba6.m3u8
+
+#EXTINF:-1 tvg-id="45 TNT" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/TNT_%28TV_Channel%29.svg/600px-TNT_%28TV_Channel%29.svg.png",45 TNT
+https://list.iptvcat.com/my_list/s/59baab2ee3b6f9f7a9f1db36ebe64047.m3u8
+
+#EXTINF:-1 tvg-id="64.1 Comedy Central (East)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Comedy_Central_2018.svg/512px-Comedy_Central_2018.svg.png",64.1 Comedy Central
+http://fl3.moveonjoy.com/Comedy_Central/index.m3u8
+
+#EXTINF:-1 tvg-id="64.2 Comedy Central Animation" tvg-logo="https://i.imgur.com/uENch0P.png",64.2 Comedy Central Animation
+http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5f99e24636d67d0007a94e6d/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c280716-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=0c5875b8-f67e-402d-97b3-0cf608608acb
+
+#EXTINF:-1 tvg-id="64.3 Comedy Central on Pluto" tvg-logo="https://i.imgur.com/jmudbCz.png",64.3 Comedy Central on Pluto
+http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5ca671f215a62078d2ec0abf/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c282e20-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=c8883a8b-3441-4f7d-a15e-3a8365fbcaef
+
+#EXTINF:-1 tvg-id="62 Cartoon Network" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Cartoon_Network_2010_logo.svg/512px-Cartoon_Network_2010_logo.svg.png",62 Cartoon Network
+https://list.iptvcat.com/my_list/s/bd7d295cbc106d36491e59f262f3efb5.m3u8
+
+#EXTINF:-1 tvg-id="42.2 NBC News NOW" tvg-logo="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/512/512/skychb1039.png",42.2 NBC News NOW
+https://xumo-drct-nbcnn-ir8ze.fast.nbcuni.com/live/master.m3u8
+
+#EXTINF:-1 tvg-id="36.1 FOX Sports" tvg-logo="https://i.imgur.com/xA0l7DP.png",36.1 FOX Sports
+https://list.iptvcat.com/my_list/s/4e158385ff044250bb466bf1b8dc4fa5.m3u8
+
+#EXTINF:-1 tvg-id="36.2 FOX Sports 2" tvg-logo="https://i.imgur.com/xA0l7DP.png",36.2 FOX Sports 2
+https://list.iptvcat.com/my_list/s/970e5a778af9e8c6f94a36ab15f88884.m3u8
+
+#EXTINF:-1 tvg-id="41 FOX News" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Fox_News_Channel_logo.svg/512px-Fox_News_Channel_logo.svg.png",41 FOX News
+https://tvpass.org/live/FoxNewsChannel/hd
+
+#EXTINF:-1 tvg-id="206 FOX Business" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Fox_Business.svg/512px-Fox_Business.svg.png",206 FOX Business
+https://tvpass.org/live/FoxBusiness/hd
+
+#EXTINF:-1 tvg-id="84 FX Movie Channel" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/FXM_Logo.svg/512px-FXM_Logo.svg.png",84 FX Movie Channel
+https://tvpass.org/live/FXMovieChannel/hd
+
+#EXTINF:-1 tvg-id="109 FXX" tvg-logo="https://cdn.prod.website-files.com/62f521a03143f09333f8ed27/62fd48d9b9515c6307ce0e96_fxx.png",109 FXX
+https://tvpass.org/live/FXXEast/hd
+
+#EXTINF:-1 tvg-id="50.2 AMC+" tvg-logo="https://i.imgur.com/abtANyj.png",50.2 AMC+
+https://bcovlive-a.akamaihd.net/bdbdca51c15243fbaca92fd54c42d45a/us-east-1/6245817279001/playlist.m3u8
+
+#EXTINF:-1 tvg-id="382 Big Ten Network" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/3/39/Big_Ten_Network_Logo.svg/512px-Big_Ten_Network_Logo.svg.png",382 Big Ten Network
+http://fl3.moveonjoy.com/BIG_TEN_NETWORK/index.m3u8
+
+#EXTINF:-1 tvg-id="207 Bloomberg" tvg-logo="https://i.pinimg.com/736x/fc/8e/95/fc8e95de073a87e10ef7b57294208c11.jpg",207 Bloomberg
+http://fl2.moveonjoy.com/BLOOMBERG/index.m3u8
+
+#EXTINF:-1 tvg-id="44 TBS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/TBS_Network-logo.svg/512px-TBS_Network-logo.svg.png",44 TBS
+https://list.iptvcat.com/my_list/s/b1325c52a5267f3792e6716b9036ad59.m3u8
+
+#EXTINF:-1 tvg-id="37.1 WeatherNation Salt Lake City" tvg-logo="https://images.pluto.tv/channels/628c2d8a3067b30007ac2901/featuredImage.jpg",37.1 WeatherNation Salt Lake City
+https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/v2/proxy/628c2d8a3067b30007ac2901/master.m3u8
+
+#EXTINF:-1 tvg-id="8 ABC NewsLive (24x7)" tvg-logo="https://m.media-amazon.com/images/I/31VjRAq7Z3L.png",8 ABC NewsLive (24x7)
+https://livetv-fa.tubi.video/abc-news/index.m3u8
+
+#EXTINF:-1 tvg-id="11.2 CBS News 24x7" tvg-logo="https://public-assets-pressexpress.s3.amazonaws.com/assets/releases/docimages/06241fd4/ExpandLiveNewsCoveragePressRelease_html_e1742cd4cb63f94c.png",11.2 CBS News 24x7
+http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/62441d6ded1827000763dcda/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=1b1cee83-4b81-11ef-a8ac-e146e4e7be02&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=4bddfb08-ac57-4769-a092-8bfc7ce71e23
+
+#EXTINF:-1 tvg-id="11.3 CBS East" tvg-logo="https://freepnglogo.com/images/all_img/1730396312_cbs-logo-white.png",11.3 CBS East
+http://fl3.moveonjoy.com/CBS_News/index.m3u8
+
+#EXTINF:-1 tvg-id="7.1 PBS SLC (KUED)" tvg-logo="https://image.pbs.org/stations/kued-color-logo-QzVe4jk.png%22,PBS",7.1 PBS SLC (KUED)
+https://kueddt.lls.cdn.pbs.org/kueddt/b0784447-7908-43f6-b188-9d6a30102ea3/primary.m3u8
+
+#EXTINF:-1 tvg-id="7.2 PBS Pittsburgh (WQED)" tvg-logo="https://image.pbs.org/stations/kued-color-logo-QzVe4jk.png%22,PBS",7.2 PBS Pittsburgh (WQED)
+https://wqeddt.lls.cdn.pbs.org/wqeddt/9f860866-5985-487e-8191-0a2c49d5d6bb/primary.m3u8
+
+#EXTINF:-1 tvg-id="2 C-SPAN" tvg-name="Ch. 2 - C-SPAN" tvg-logo="https://i.imgur.com/Wd4xnGt.png" group-title="USA",2 C-SPAN
+https://skystreams-lh.akamaihd.net/i/SkyC1_1@500806/master.m3u8
