@@ -23,3 +23,5 @@ https://cvtv.cvalley.net/hls/KSHBCozi/KSHBCozi.m3u8
 
 #EXTINF:-1 tvg-id="PBS.(KUED).Salt.Lake.City,.UT.us" tvg-logo="https://image.pbs.org/stations/kued-color-logo-QzVe4jk.png",7.1 - PBS - Salt Lake City UT (KUED) (1080p)
 https://kueddt.lls.cdn.pbs.org/kueddt/b0784447-7908-43f6-b188-9d6a30102ea3/primary.m3u8
+
+#EXTINF:-1 tvg-id="PBS.(KUED).Salt.Lake.City,.UT.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/ESPN_wordmark.svg/554px-ESPN_wordmark.svg.png",7.1 - ESPN (1080p)
