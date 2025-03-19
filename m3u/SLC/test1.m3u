@@ -1,25 +1,25 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-id="KUTVDT1.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/CBS_logo_%282020%29.svg/512px-CBS_logo_%282020%29.svg.png",2.1 - CBS Salt Lake City (KUTV) (1080p)
+#EXTINF:-1 tvg-id="CBS.(KUTV).Salt.Lake.City,.UT.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/CBS_logo_%282020%29.svg/512px-CBS_logo_%282020%29.svg.png",2.1 - CBS Salt Lake City (KUTV) (1080p)
 https://dai.google.com/linear/hls/pa/event/nX7afHUAQZGDMuLBvWG6AA/stream/ff5d50ce-357a-4013-ac56-9fff6e672fa3:CBF2/master.m3u8
 
-#EXTINF:-1 tvg-id="WHVLLD1.us" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/54/MyNetworkTV_%283D%29.svg/revision/latest/smart/width/386/height/259?cb=20231122005828",2.2 - MyNetwork - State College PA (WHVL) (720p)
+#EXTINF:-1 tvg-id="MNT.(WHVL).Johnstown,.PA.us" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/54/MyNetworkTV_%283D%29.svg/revision/latest/smart/width/386/height/259?cb=20231122005828",2.2 - MyNetwork - State College PA (WHVL) (720p)
 http://trn03.tulix.tv/e5CGxWp8iU/playlist.m3u8
 
-#EXTINF:-1 tvg-id="KTVXDT1.us" tvg-logo="https://i.imgur.com/pvXZ8DX.png",4.1 - ABC - Salt Lake City, UT (KTVX) (1080p)
+#EXTINF:-1 tvg-id="ABC.(KTVX).Salt.Lake.City,.UT.us" tvg-logo="https://i.imgur.com/pvXZ8DX.png",4.1 - ABC - Salt Lake City, UT (KTVX) (1080p)
 https://dcs-live.mp.lura.live/server/play/5AwdN6JC4mdgh9Xj/manifest.m3u8
 
-#EXTINF:-1 tvg-id="KMBCDT2.us" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/5/55/MeTV_Logo.svg/512px-MeTV_Logo.svg.png",4.2 - MeTV - Kansas City MO (KMBC) (720p)
+#EXTINF:-1 tvg-id="ABC.(KMBC).Kansas.City,.MO.us" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/5/55/MeTV_Logo.svg/512px-MeTV_Logo.svg.png",4.2 - MeTV - Kansas City MO (KMBC) (720p)
 https://cvtv.cvalley.net/hls/KMBCMeTV/KMBCMeTV.m3u8
 
-#EXTINF:-1 tvg-id="KSHBDT3.us" tvg-logo="https://i.imgur.com/PtHtgsn.png",4.3 - Laff - Kansas City MO (KSHB) (720p)
+#EXTINF:-1 tvg-id="NBC.(KSHB).Kansas.City,.MO.us" tvg-logo="https://i.imgur.com/PtHtgsn.png",4.3 - Laff - Kansas City MO (KSHB) (720p)
 https://cvtv.cvalley.net/hls/KSHBLaff/KSHBLaff.m3u8
 
-#EXTINF:-1 tvg-id="KSLTVDT1.us" tvg-logo="https://yt3.googleusercontent.com/3N_BUH0YdQE7Duf7kCve5zQ4EENLHyEd5zLzaszPnE1jkEhiipE6D7kr3dZWmenFAPs2b5m59Q=s900-c-k-c0x00ffffff-no-rj",5.1 - KSL/NBC - Salt Lake City UT (KSL-TV) (1080p)
+#EXTINF:-1 tvg-id="NBC.(KSL).Salt.Lake.City,.UT.us" tvg-logo="https://yt3.googleusercontent.com/3N_BUH0YdQE7Duf7kCve5zQ4EENLHyEd5zLzaszPnE1jkEhiipE6D7kr3dZWmenFAPs2b5m59Q=s900-c-k-c0x00ffffff-no-rj",5.1 - KSL/NBC - Salt Lake City UT (KSL-TV) (1080p)
 https://fuel-streaming-prod01.fuelmedia.io/v1/sep/081ad2db-152c-4af8-9f69-3d54bd741506/4c674289-8bca-4dae-a7ee-1c8338d44961/6S2000K540AWS/SM/content.m3u8
 
-#EXTINF:-1 tvg-id="KSHBDT2.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/Cozi_TV_logo.svg/512px-Cozi_TV_logo.svg.png",5.2 - Cozi - Kansas City MO (KSHB) (720p)
+#EXTINF:-1 tvg-id="NBC.(KSHB).Kansas.City,.MO.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/Cozi_TV_logo.svg/512px-Cozi_TV_logo.svg.png",5.2 - Cozi - Kansas City MO (KSHB) (720p)
 https://cvtv.cvalley.net/hls/KSHBCozi/KSHBCozi.m3u8
 
-#EXTINF:-1 tvg-id="KUED" tvg-logo="https://image.pbs.org/stations/kued-color-logo-QzVe4jk.png",7.1 - PBS - Salt Lake City UT (KUED) (1080p)
+#EXTINF:-1 tvg-id="PBS.(KUED).Salt.Lake.City,.UT.us" tvg-logo="https://image.pbs.org/stations/kued-color-logo-QzVe4jk.png",7.1 - PBS - Salt Lake City UT (KUED) (1080p)
 https://kueddt.lls.cdn.pbs.org/kueddt/b0784447-7908-43f6-b188-9d6a30102ea3/primary.m3u8
