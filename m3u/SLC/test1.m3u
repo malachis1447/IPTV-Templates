@@ -110,7 +110,7 @@ http://fl2.moveonjoy.com/STARZ_COMEDY/index.m3u8
 http://fl5.moveonjoy.com/STARZ_ENCORE_CLASSIC/index.m3u8
 
 #EXTINF:-1 tvg-name="47 TruTV" tvg-id="trutv.usa.east.us" group-title="Entertainment" tvg-logo="https://media.tv4.live/trutv.usa.east.us.png",47 TruTV
-https://tv4.live/api/stream/fridrch4529@gmail.com/8u966/livetv.epg/trutv.usa.east.us.m3u8 
+https://tve-live-lln.warnermediacdn.com/hls/live/2023178/truwest/slate/VIDEO_0_3564000.m3u8
 
 #EXTINF:-1 tvg-id="634.1 Universal Cinema" tvg-logo="https://i.imgur.com/XxfET68.png",634.1 Universal Cinema
 http://190.2.212.209:8050/play/a0q3
