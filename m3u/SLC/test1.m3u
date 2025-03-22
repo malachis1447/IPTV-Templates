@@ -1,4 +1,8 @@
 #EXTM3U
+
+#EXTINF:-1 tvg-id="2.1 ABC2 SLC" tvg-logo="https://image-resizer-cloud-cdn.api.cms.amdvids.com/image/E8F6E6C8-3112-45B4-90E9-61F8DF69DC6F/3-1x1.png/100?webp=1",2.1 ABC2 SLC (1080p)
+https://s9host1.localnow.api.cms.amdvids.com/v1/manifest/c189661feba961c19bc5fb60b57879ee9b84548a/config11/95862d31-4999-4d62-b958-520e78082254/0.m3u8
+
 #EXTINF:-1 tvg-id="34 ESPN" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/ESPN_wordmark.svg/554px-ESPN_wordmark.svg.png",34 ESPN (1080p)
 https://nl1.streamlive.to/live/streamlive-sd/streamlive-sd/3636.m3u8
 
@@ -7,7 +11,7 @@ http://fl2.moveonjoy.com/ESPN_2/index.m3u8
 
 
 #EXTINF:-1 tvg-id="5 KSL-TV NBC" tvg-logo="https://cdn.bonneville.cloud/i/KSL-TV/custom_320x240.webp",5 KSL-TV
-http://hls.ksl.com/t/strata/playlist.m3u8
+https://s8host4.localnow.api.cms.amdvids.com/v1/manifest/c189661feba961c19bc5fb60b57879ee9b84548a/config10/9f9b04aa-e0fd-4988-b28b-08298bce780f/0.m3u8
 
 #EXTINF:-1 tvg-id="93. Sky Sports News" tvg-logo="https://i.ibb.co/CwMZcpP/sky-main-event.png",93 Sky Sports News
 https://a1xs.vip/2000001
@@ -18,7 +22,7 @@ http://fl5.moveonjoy.com/AMC_NETWORK/index.m3u8
 #EXTINF:-1 tvg-id="110 BBC America" tvg-logo="https://i.imgur.com/pTiiPz0.png",110 BBC America
 http://fl2.moveonjoy.com/BBC_AMERICA/index.m3u8
 
-#EXTINF:-1 tvg-id="11 CBS News Pittsburgh" tvg-logo="https://i.imgur.com/Un9IrUh.png",11 CBS News Pittsburgh
+#EXTINF:-1 tvg-id="11 CBS News Pittsburgh" tvg-logo="https://image-resizer-cloud-cdn.api.cms.amdvids.com/image/ABA06D0F-F40F-4B16-B881-9F926E1345D1/3-1x1.png/100?webp=1",11 CBS News Pittsburgh
 https://cbsn-pit.cbsnstream.cbsnews.com/out/v1/6966dabf8150405ab26f854e3cd6a2b8/master.m3u8
 
 #EXTINF:-1 tvg-id="43 CNBC" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/CNBC_logo.svg/512px-CNBC_logo.svg.png",43 CNBC
@@ -160,7 +164,7 @@ http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5f
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5ca671f215a62078d2ec0abf/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c282e20-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=c8883a8b-3441-4f7d-a15e-3a8365fbcaef
 
 #EXTINF:-1 tvg-id="62 Cartoon Network" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Cartoon_Network_2010_logo.svg/512px-Cartoon_Network_2010_logo.svg.png",62 Cartoon Network
-https://list.iptvcat.com/my_list/s/bd7d295cbc106d36491e59f262f3efb5.m3u8
+https://amg01448-samsungin-cartoonnw-samsungin-1y8kz.amagi.tv/playlist/amg01448-samsungin-cartoonnw-samsungin/playlist.m3u8
 
 #EXTINF:-1 tvg-id="42.2 NBC News NOW" tvg-logo="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/512/512/skychb1039.png",42.2 NBC News NOW
 https://xumo-drct-nbcnn-ir8ze.fast.nbcuni.com/live/master.m3u8
@@ -216,8 +220,14 @@ https://wqeddt.lls.cdn.pbs.org/wqeddt/9f860866-5985-487e-8191-0a2c49d5d6bb/prima
 #EXTINF:-1 tvg-id="2 C-SPAN" tvg-name="Ch. 2 - C-SPAN" tvg-logo="https://i.imgur.com/Wd4xnGt.png" group-title="USA",2 C-SPAN
 https://skystreams-lh.akamaihd.net/i/SkyC1_1@500806/master.m3u8
 
-#EXTINF:-1 tvg-id="4 ABC Pittsburgh (WTAE)",4 ABC Pittsburg PA (WTAE) (720p)
+#EXTINF:-1 tvg-id="4 ABC Pittsburgh (WTAE)" tvg-logo="https://upload.wikimedia.org/wikipedia/en/8/8f/WTAE-TV_logo.png?20221220135740",4 ABC Pittsburg PA (WTAE) (720p)
 https://apollo.production-public.tubi.io/live/ac-wtae.m3u8
 
-#EXTINF:-1 tvg-id="13 FOX Salt Lake City",13 FOX Salt Lake City UT (KSTU) (720p)
+#EXTINF:-1 tvg-id="13 FOX Salt Lake City" tvg-logo="https://image-resizer-cloud-cdn.api.cms.amdvids.com/image/98C37ABA-D656-4C2C-B075-00F93DDC7475/3-1x1.png",13 FOX Salt Lake City UT (KSTU) (720p)
 https://apollo.production-public.tubi.io/live/ac-kstu2.m3u8
+
+#EXTINF:-1 tvg-id="86 Ch. 86 - SEC Network" tvg-name="86 Ch. 86 - SEC Network" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/fd/SEC_Network_%282024%29.svg",86 Ch. 86 - SEC Network
+http://livex.pop-app.live/s4n/poplive/ch571/playlist.m3u8
+
+ #EXTINF:-1 tvg-name="52 Ch. 52 - Food Network" tvg-id="food.network.usa.eastern.us" group-title="Food" tvg-logo="https://media.tv4.live/food.network.usa.eastern.us.png",52. Ch. 52 - Food Network (East) 
+ https://tv4.live/api/stream/fridrch4529@gmail.com/8u966/livetv.epg/food.network.usa.eastern.us.m3u8 
