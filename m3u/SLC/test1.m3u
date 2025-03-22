@@ -148,8 +148,11 @@ http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5f
 #EXTINF:-1 tvg-id="54 A&E" tvg-logo="https://i.imgur.com/dZHktKR.png",54 A&E
 https://tvpass.org/live/AEEast/hd
 
-#EXTINF:-1 tvg-id="40 CNN" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b1/CNN.svg",40 CNN
+#EXTINF:-1 tvg-id="40.1 CNN" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b1/CNN.svg",40.1 CNN
 https://list.iptvcat.com/my_list/s/66b990856d508ac46fb6da1ca7c01ba6.m3u8
+
+#EXTINF:-1 tvg-id="40.2 CNN International" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b1/CNN.svg",40.2 CNN International
+http://fl2.moveonjoy.com/CNN_INTERNATIONAL/index.m3u8
 
 #EXTINF:-1 tvg-id="45 TNT" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/TNT_%28TV_Channel%29.svg/600px-TNT_%28TV_Channel%29.svg.png",45 TNT
 https://list.iptvcat.com/my_list/s/59baab2ee3b6f9f7a9f1db36ebe64047.m3u8
@@ -297,3 +300,6 @@ http://fl3.moveonjoy.com/Discovery_Channel/index.m3u8
 
 #EXTINF:-1 tvg-id="531 Cinemax",531 Cinemax
 http://fl5.moveonjoy.com/CINEMAX/index.m3u8
+
+#EXTINF:-1 tvg-id="80 Cozi TV",580 Cozi TV
+http://fl3.moveonjoy.com/COZI_TV/index.m3u8
