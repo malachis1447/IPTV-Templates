@@ -4,7 +4,7 @@
 https://s9host1.localnow.api.cms.amdvids.com/v1/manifest/c189661feba961c19bc5fb60b57879ee9b84548a/config11/95862d31-4999-4d62-b958-520e78082254/0.m3u8
 
 #EXTINF:-1 tvg-id="34 ESPN" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/ESPN_wordmark.svg/554px-ESPN_wordmark.svg.png",34 ESPN (1080p)
-https://nl1.streamlive.to/live/streamlive-sd/streamlive-sd/3636.m3u8
+http://fl2.moveonjoy.com/ESPN/index.m3u8
 
 #EXTINF:-1 tvg-id="33 ESPN2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/ESPN2_logo.svg/512px-ESPN2_logo.svg.png",33 ESPN2 (1080p)
 http://fl2.moveonjoy.com/ESPN_2/index.m3u8
@@ -291,3 +291,9 @@ http://fl2.moveonjoy.com/NHL_NETWORK/index.m3u8
 
 #EXTINF:-1 tvg-id="254 Disney Junior",254 Disney Junior
 http://fl5.moveonjoy.com/DISNEY_JR/index.m3u8
+
+#EXTINF:-1 tvg-id="3 Discovery Channel",3 Discovery Channel
+http://fl3.moveonjoy.com/Discovery_Channel/index.m3u8
+
+#EXTINF:-1 tvg-id="531 Cinemax",531 Cinemax
+http://fl5.moveonjoy.com/CINEMAX/index.m3u8
