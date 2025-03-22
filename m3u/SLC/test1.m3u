@@ -200,7 +200,7 @@ http://fl3.moveonjoy.com/BIG_TEN_NETWORK/index.m3u8
 http://fl2.moveonjoy.com/BLOOMBERG/index.m3u8
 
 #EXTINF:-1 tvg-id="44 TBS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/TBS_Network-logo.svg/512px-TBS_Network-logo.svg.png",44 TBS
-https://list.iptvcat.com/my_list/s/b1325c52a5267f3792e6716b9036ad59.m3u8
+http://fl2.moveonjoy.com/TBS/index.m3u8
 
 #EXTINF:-1 tvg-id="37.2 WeatherNation Salt Lake City" tvg-logo="https://images.pluto.tv/channels/628c2d8a3067b30007ac2901/featuredImage.jpg",37.1 WeatherNation Salt Lake City
 https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/v2/proxy/628c2d8a3067b30007ac2901/master.m3u8
