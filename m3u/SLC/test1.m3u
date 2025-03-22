@@ -110,7 +110,7 @@ http://fl2.moveonjoy.com/STARZ_COMEDY/index.m3u8
 http://fl5.moveonjoy.com/STARZ_ENCORE_CLASSIC/index.m3u8
 
 #EXTINF:-1 tvg-name="47 TruTV" tvg-id="trutv.usa.east.us" group-title="Entertainment" tvg-logo="https://media.tv4.live/trutv.usa.east.us.png",47 TruTV
-https://tve-live-lln.warnermediacdn.com/hls/live/2023178/truwest/slate/VIDEO_0_3564000.m3u8
+http://fl2.moveonjoy.com/TRU_TV/index.m3u8
 
 #EXTINF:-1 tvg-id="634.1 Universal Cinema" tvg-logo="https://i.imgur.com/XxfET68.png",634.1 Universal Cinema
 http://190.2.212.209:8050/play/a0q3
@@ -199,7 +199,7 @@ http://fl2.moveonjoy.com/BLOOMBERG/index.m3u8
 #EXTINF:-1 tvg-id="44 TBS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/TBS_Network-logo.svg/512px-TBS_Network-logo.svg.png",44 TBS
 https://list.iptvcat.com/my_list/s/b1325c52a5267f3792e6716b9036ad59.m3u8
 
-#EXTINF:-1 tvg-id="37.1 WeatherNation Salt Lake City" tvg-logo="https://images.pluto.tv/channels/628c2d8a3067b30007ac2901/featuredImage.jpg",37.1 WeatherNation Salt Lake City
+#EXTINF:-1 tvg-id="37.2 WeatherNation Salt Lake City" tvg-logo="https://images.pluto.tv/channels/628c2d8a3067b30007ac2901/featuredImage.jpg",37.1 WeatherNation Salt Lake City
 https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/v2/proxy/628c2d8a3067b30007ac2901/master.m3u8
 
 #EXTINF:-1 tvg-id="8 ABC NewsLive (24x7)" tvg-logo="https://m.media-amazon.com/images/I/31VjRAq7Z3L.png",8 ABC NewsLive (24x7)
@@ -232,8 +232,8 @@ http://livex.pop-app.live/s4n/poplive/ch571/playlist.m3u8
 #EXTINF:-1 tvg-id="11 NBC11 Pittsburgh (WPXI)",11 NBC11 Pittsburgh PA (WPXI) (720p)
 https://apollo.production-public.tubi.io/live/ac-wpxi2.m3u8
 
- #EXTINF:-1 tvg-name="52 Food Network" tvg-id="food.network.usa.eastern.us" group-title="Food" tvg-logo="https://media.tv4.live/food.network.usa.eastern.us.png",52. Food Network (East) 
- https://tv4.live/api/stream/fridrch4529@gmail.com/8u966/livetv.epg/food.network.usa.eastern.us.m3u8 
+#EXTINF:-1 tvg-name="52 Food Network" tvg-id="food.network.usa.eastern.us" group-title="Food" tvg-logo="https://media.tv4.live/food.network.usa.eastern.us.png",52. Food Network (East) 
+http://fl2.moveonjoy.com/FOOD_NETWORK/index.m3u8
 
 #EXTINF:-1 tvg-id="51 Lifetime",51 Lifetime
 https://streamer1.nexgen.bz/LIFETIME/index.m3u8
@@ -267,3 +267,27 @@ http://fl2.moveonjoy.com/TV_ONE/index.m3u8
 
 #EXTINF:-1 tvg-id="70 VH1",70 VH1
 http://fl2.moveonjoy.com/VH1/index.m3u8
+
+#EXTINF:-1 tvg-id="37.1 Weather Channel",37.1 Weather Channel
+http:\fl2.moveonjoy.com\THE_WEATHER_CHANNEL\index.m3u8
+
+#EXTINF:-1 tvg-id="35 Golf Channel",35 Golf Channel
+http://fl2.moveonjoy.com/GOLF_CHANNEL/index.m3u8
+
+#EXTINF:-1 tvg-id="370 ESPN U",370 ESPN U
+http://fl2.moveonjoy.com/ESPN_U/index.m3u8
+
+#EXTINF:-1 tvg-id="302 ESPN News",302 ESPN News
+http://fl2.moveonjoy.com/ESPN_NEWS/index.m3u8
+
+#EXTINF:-1 tvg-id="235 MotorTrend",235 MotorTrend
+http://fl2.moveonjoy.com/MOTOR_TREND/index.m3u8
+
+#EXTINF:-1 tvg-id="31 NBC Sports Network",31 NBC Sports Network
+http://fl2.moveonjoy.com/NBC_SPORTS_NETWORK/index.m3u8
+
+#EXTINF:-1 tvg-id="312 NHL Network",312 NHL Network
+http://fl2.moveonjoy.com/NHL_NETWORK/index.m3u8
+
+#EXTINF:-1 tvg-id="254 Disney Junior",254 Disney Junior
+http://fl5.moveonjoy.com/DISNEY_JR/index.m3u8
