@@ -22,7 +22,7 @@ http://fl5.moveonjoy.com/AMC_NETWORK/index.m3u8
 #EXTINF:-1 tvg-id="110 BBC America" tvg-logo="https://i.imgur.com/pTiiPz0.png",110 BBC America
 http://fl2.moveonjoy.com/BBC_AMERICA/index.m3u8
 
-#EXTINF:-1 tvg-id="11 CBS News Pittsburgh" tvg-logo="https://image-resizer-cloud-cdn.api.cms.amdvids.com/image/ABA06D0F-F40F-4B16-B881-9F926E1345D1/3-1x1.png/100?webp=1",11 CBS News Pittsburgh
+#EXTINF:-1 tvg-id="2.2 CBS News Pittsburgh" tvg-logo="https://image-resizer-cloud-cdn.api.cms.amdvids.com/image/ABA06D0F-F40F-4B16-B881-9F926E1345D1/3-1x1.png/100?webp=1",2.2 CBS News Pittsburgh
 https://cbsn-pit.cbsnstream.cbsnews.com/out/v1/6966dabf8150405ab26f854e3cd6a2b8/master.m3u8
 
 #EXTINF:-1 tvg-id="43 CNBC" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/CNBC_logo.svg/512px-CNBC_logo.svg.png",43 CNBC
@@ -58,10 +58,10 @@ https://qvc-amd-live.akamaized.net/hls/live/2034113/lshsn1uswest/master.m3u8
 #EXTINF:-1 tvg-id="42.1 MSNBC" tvg-logo="https://i.imgur.com/kGUR6NE.png",42.1 MSNBC
 https://qvc-amd-live.akamaized.net/hls/live/2034113/lshsn1uswest/master.m3u8
 
-#EXTINF:-1 tvg-id="129 National Geographic HD" tvg-logo="https://i.imgur.com/8vp2CdP.png",129 National Geographic
+#EXTINF:-1 tvg-id="38.1 National Geographic HD" tvg-logo="https://i.imgur.com/8vp2CdP.png",38.1 National Geographic
 https://tvpass.org/live/NationalGeographicEast/hd
 
-#EXTINF:-1 tvg-id="130 National Geographic Wild" tvg-logo="https://i.imgur.com/WEv09Ak.png",130 National Geographic Wild
+#EXTINF:-1 tvg-id="38.2 National Geographic Wild" tvg-logo="https://i.imgur.com/WEv09Ak.png",38.2 National Geographic Wild
 https://tvpass.org/live/NationalGeographicWildEast/hd
 
 #EXTINF:-1 tvg-id="310.1 NFL Channel" tvg-logo="https://i.imgur.com/mPGtwAP.png",310.1 NFL Channel
@@ -226,8 +226,44 @@ https://apollo.production-public.tubi.io/live/ac-wtae.m3u8
 #EXTINF:-1 tvg-id="13 FOX Salt Lake City" tvg-logo="https://image-resizer-cloud-cdn.api.cms.amdvids.com/image/98C37ABA-D656-4C2C-B075-00F93DDC7475/3-1x1.png",13 FOX Salt Lake City UT (KSTU) (720p)
 https://apollo.production-public.tubi.io/live/ac-kstu2.m3u8
 
-#EXTINF:-1 tvg-id="86 Ch. 86 - SEC Network" tvg-name="86 Ch. 86 - SEC Network" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/fd/SEC_Network_%282024%29.svg",86 Ch. 86 - SEC Network
+#EXTINF:-1 tvg-id="86 SEC Network" tvg-name="86 SEC Network" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/fd/SEC_Network_%282024%29.svg",86 SEC Network
 http://livex.pop-app.live/s4n/poplive/ch571/playlist.m3u8
 
- #EXTINF:-1 tvg-name="52 Ch. 52 - Food Network" tvg-id="food.network.usa.eastern.us" group-title="Food" tvg-logo="https://media.tv4.live/food.network.usa.eastern.us.png",52. Ch. 52 - Food Network (East) 
+#EXTINF:-1 tvg-id="11 NBC11 Pittsburgh (WPXI)",11 NBC11 Pittsburgh PA (WPXI) (720p)
+https://apollo.production-public.tubi.io/live/ac-wpxi2.m3u8
+
+ #EXTINF:-1 tvg-name="52 Food Network" tvg-id="food.network.usa.eastern.us" group-title="Food" tvg-logo="https://media.tv4.live/food.network.usa.eastern.us.png",52. Food Network (East) 
  https://tv4.live/api/stream/fridrch4529@gmail.com/8u966/livetv.epg/food.network.usa.eastern.us.m3u8 
+
+#EXTINF:-1 tvg-id="51 Lifetime",51 Lifetime
+https://streamer1.nexgen.bz/LIFETIME/index.m3u8
+
+#EXTINF:-1 tvg-id="89 Lifetime Movies",89 Lifetime Movies (720p)
+https://tvpass.org/live/LifetimeMoviesEast/hd
+
+#EXTINF:-1 tvg-id="65 Syfy",65 Syfy
+http://fl2.moveonjoy.com/SYFY/index.m3u8
+
+#EXTINF:-1 tvg-id="61 Freeform", 61 Freeform
+http://fl2.moveonjoy.com/FREE_FORM/index.m3u8
+
+#EXTINF:-1 tvg-id="256 Baby First TV",256 Baby First TV
+https://streams2.sofast.tv/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/c8d16110-566c-4e95-a1df-55d175e9e201/manifest.m3u8
+
+#EXTINF:-1 tvg-id="257 Nick Jr.",257 Nick Jr.
+http://fl2.moveonjoy.com/NICK_JR/index.m3u8
+
+#EXTINF:-1 tvg-id="262 Nicktoons",262 Nicktoons
+http://fl1.moveonjoy.com/NICKTOONS/index.m3u8
+
+#EXTINF:-1 tvg-id="73 Oxygen",73 Oxygen
+http://fl2.moveonjoy.com/OXYGEN/index.m3u8
+
+#EXTINF:-1 tvg-id="72 BET",72 BET
+http://fl2.moveonjoy.com/BET_EAST/index.m3u8
+
+#EXTINF:-1 tvg-id="71 TV One",71 TV One
+http://fl2.moveonjoy.com/TV_ONE/index.m3u8
+
+#EXTINF:-1 tvg-id="70 VH1",70 VH1
+http://fl2.moveonjoy.com/VH1/index.m3u8
