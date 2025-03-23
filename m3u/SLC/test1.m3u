@@ -185,22 +185,22 @@ https://amg01448-samsungin-cartoonnw-samsungin-1y8kz.amagi.tv/playlist/amg01448-
 https://xumo-drct-nbcnn-ir8ze.fast.nbcuni.com/live/master.m3u8
 
 #EXTINF:-1 tvg-id="36.1 FOX Sports" tvg-logo="https://i.imgur.com/xA0l7DP.png",36.1 FOX Sports
-https://list.iptvcat.com/my_list/s/4e158385ff044250bb466bf1b8dc4fa5.m3u8
+http://fl2.moveonjoy.com/FOX_Sports_1/index.m3u8
 
 #EXTINF:-1 tvg-id="36.2 FOX Sports 2" tvg-logo="https://i.imgur.com/xA0l7DP.png",36.2 FOX Sports 2
-https://list.iptvcat.com/my_list/s/970e5a778af9e8c6f94a36ab15f88884.m3u8
+http://fl2.moveonjoy.com/FOX_Sports_2/index.m3u8
 
 #EXTINF:-1 tvg-id="41 FOX News" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Fox_News_Channel_logo.svg/512px-Fox_News_Channel_logo.svg.png",41 FOX News
 https://tvpass.org/live/FoxNewsChannel/hd
 
 #EXTINF:-1 tvg-id="206 FOX Business" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Fox_Business.svg/512px-Fox_Business.svg.png",206 FOX Business
-https://tvpass.org/live/FoxBusiness/hd
+http://fl2.moveonjoy.com/FOX_Business_Network/index.m3u8
 
 #EXTINF:-1 tvg-id="84 FX Movie Channel" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/FXM_Logo.svg/512px-FXM_Logo.svg.png",84 FX Movie Channel
-https://tvpass.org/live/FXMovieChannel/hd
+http://fl2.moveonjoy.com/FX_MOVIE/index.m3u8
 
 #EXTINF:-1 tvg-id="109 FXX" tvg-logo="https://cdn.prod.website-files.com/62f521a03143f09333f8ed27/62fd48d9b9515c6307ce0e96_fxx.png",109 FXX
-https://tvpass.org/live/FXXEast/hd
+http://fl2.moveonjoy.com/FXX/index.m3u8
 
 #EXTINF:-1 tvg-id="50.2 AMC+" tvg-logo="https://i.imgur.com/abtANyj.png",50.2 AMC+
 https://bcovlive-a.akamaihd.net/bdbdca51c15243fbaca92fd54c42d45a/us-east-1/6245817279001/playlist.m3u8
