@@ -92,10 +92,22 @@ https://pbs.lls.cdn.pbs.org/pst/index.m3u8
 https://livestream.pbskids.org/out/v1/00a3b9014fa54c40bee6ca68a104a8a4/mst.m3u8
 
 #EXTINF:-1 tvg-id="551 Showtime" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Showtime.svg/512px-Showtime.svg.png",551 Showtime
-http://fl2.moveonjoy.com/SHOWTIME_2/index.m3u8
+http://fl2.moveonjoy.com/SHOWTIME/index.m3u8
 
 #EXTINF:-1 tvg-id="552 Showtime 2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Showtime.svg/512px-Showtime.svg.png",552 Showtime 2
+http://fl2.moveonjoy.com/SHOWTIME_2/index.m3u8
+
+#EXTINF:-1 tvg-id="551.2 Showtime (West)",551.2 Showtime (West)
 http://fl2.moveonjoy.com/SHOWTIME_WEST/index.m3u8
+
+#EXTINF:-1 tvg-id="554 Showtime Extreme",554 Showtime Extreme
+http://fl2.moveonjoy.com/SHOWTIME_EXTREME/index.m3u8
+
+#EXTINF:-1 tvg-id="556 Showtime Next",556 Showtime Next
+http://fl2.moveonjoy.com/SHOWTIME_NEXT/index.m3u8
+
+#EXTINF:-1 tvg-id="568 Sony Movies Channel",568 Sony Movies Channel
+http://fl3.moveonjoy.com/Sony_Movie_Channel/index.m3u8
 
 #EXTINF:-1 tvg-id="581 Starz (East)" tvg-logo="https://i.imgur.com/N7oSm4d.png",581 Starz
 https://tvpass.org/live/StarzEast/hd
@@ -212,7 +224,7 @@ https://livetv-fa.tubi.video/abc-news/index.m3u8
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/62441d6ded1827000763dcda/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=1b1cee83-4b81-11ef-a8ac-e146e4e7be02&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=4bddfb08-ac57-4769-a092-8bfc7ce71e23
 
 #EXTINF:-1 tvg-id="11.3 CBS East" tvg-logo="https://freepnglogo.com/images/all_img/1730396312_cbs-logo-white.png",11.3 CBS East
-http://fl3.moveonjoy.com/CBS_News/index.m3u8
+http://fl2.moveonjoy.com/CBSEAST/index.m3u8
 
 #EXTINF:-1 tvg-id="7.1 PBS SLC (KUED)" tvg-logo="https://image.pbs.org/stations/kued-color-logo-QzVe4jk.png%22,PBS",7.1 PBS SLC (KUED)
 https://kueddt.lls.cdn.pbs.org/kueddt/b0784447-7908-43f6-b188-9d6a30102ea3/primary.m3u8
@@ -221,7 +233,7 @@ https://kueddt.lls.cdn.pbs.org/kueddt/b0784447-7908-43f6-b188-9d6a30102ea3/prima
 https://wqeddt.lls.cdn.pbs.org/wqeddt/9f860866-5985-487e-8191-0a2c49d5d6bb/primary.m3u8
 
 #EXTINF:-1 tvg-id="2 C-SPAN" tvg-name="Ch. 2 - C-SPAN" tvg-logo="https://i.imgur.com/Wd4xnGt.png" group-title="USA",2 C-SPAN
-https://skystreams-lh.akamaihd.net/i/SkyC1_1@500806/master.m3u8
+http://fl2.moveonjoy.com/C-SPAN/index.m3u8
 
 #EXTINF:-1 tvg-id="4 ABC Pittsburgh (WTAE)" tvg-logo="https://upload.wikimedia.org/wikipedia/en/8/8f/WTAE-TV_logo.png?20221220135740",4 ABC Pittsburg PA (WTAE) (720p)
 https://apollo.production-public.tubi.io/live/ac-wtae.m3u8
@@ -298,8 +310,27 @@ http://fl5.moveonjoy.com/DISNEY_JR/index.m3u8
 #EXTINF:-1 tvg-id="3 Discovery Channel",3 Discovery Channel
 http://fl3.moveonjoy.com/Discovery_Channel/index.m3u8
 
-#EXTINF:-1 tvg-id="531 Cinemax",531 Cinemax
+#EXTINF:-1 tvg-id="531.1 Cinemax",531.1 Cinemax
 http://fl5.moveonjoy.com/CINEMAX/index.m3u8
+
+#EXTINF:-1 tvg-id="531.2 Cinemax (East)",531.2 Cinemax (East)
+http://fl2.moveonjoy.com/CINEMAX_EAST/index.m3u8
+
+#EXTINF:-1 tvg-id="539 Cinemax (West)",539 Cinemax (West)
+http://fl2.moveonjoy.com/CINEMAX_WEST/index.m3u8
 
 #EXTINF:-1 tvg-id="80 Cozi TV",580 Cozi TV
 http://fl3.moveonjoy.com/COZI_TV/index.m3u8
+
+#EXTINF:-1 tvg-id="315 CBS Sports Network",315 CBS Sports Network
+http://fl2.moveonjoy.com/CBS_SPORTS_NETWORK/index.m3u8
+
+#EXTINF:-1 tvg-id="532 Moremax",532 Moremax
+http://fl3.moveonjoy.com/CINEMAX_MOREMAX/index.m3u8
+
+#EXTINF:-1 tvg-id="63 CMT",63 CMT
+http://fl3.moveonjoy.com/CMT/index.m3u8
+
+#EXTINF:-1 tvg-id="67 Investigation Discovery",67 Investigation Discovery
+http://fl2.moveonjoy.com/INVESTIGATION_DISCOVERY/index.m3u8
+
