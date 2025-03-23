@@ -1,91 +1,91 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-id="2.1 ABC2 SLC" tvg-logo="https://image-resizer-cloud-cdn.api.cms.amdvids.com/image/E8F6E6C8-3112-45B4-90E9-61F8DF69DC6F/3-1x1.png/100?webp=1",2.1 ABC2 SLC (1080p)
+#EXTINF:-1 tvg-id="2.1 ABC2 SLC" tvg-logo="https://image-resizer-cloud-cdn.api.cms.amdvids.com/image/E8F6E6C8-3112-45B4-90E9-61F8DF69DC6F/3-1x1.png/100?webp=1",2.1 ABC2 SLC - Ch. 2.1
 https://s9host1.localnow.api.cms.amdvids.com/v1/manifest/c189661feba961c19bc5fb60b57879ee9b84548a/config11/95862d31-4999-4d62-b958-520e78082254/0.m3u8
 
-#EXTINF:-1 tvg-id="34 ESPN" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/ESPN_wordmark.svg/554px-ESPN_wordmark.svg.png",34 ESPN (1080p)
+#EXTINF:-1 tvg-id="34 ESPN" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/ESPN_wordmark.svg/554px-ESPN_wordmark.svg.png",34 ESPN - Ch. 34
 http://fl2.moveonjoy.com/ESPN/index.m3u8
 
-#EXTINF:-1 tvg-id="33 ESPN2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/ESPN2_logo.svg/512px-ESPN2_logo.svg.png",33 ESPN2 (1080p)
+#EXTINF:-1 tvg-id="33 ESPN2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/ESPN2_logo.svg/512px-ESPN2_logo.svg.png",33 ESPN2 - Ch. 33
 http://fl2.moveonjoy.com/ESPN_2/index.m3u8
 
 
-#EXTINF:-1 tvg-id="5 KSL-TV NBC" tvg-logo="https://cdn.bonneville.cloud/i/KSL-TV/custom_320x240.webp",5 KSL-TV
+#EXTINF:-1 tvg-id="5 KSL-TV NBC" tvg-logo="https://cdn.bonneville.cloud/i/KSL-TV/custom_320x240.webp",5 KSL-TV - Ch. 5
 https://s8host4.localnow.api.cms.amdvids.com/v1/manifest/c189661feba961c19bc5fb60b57879ee9b84548a/config10/9f9b04aa-e0fd-4988-b28b-08298bce780f/0.m3u8
 
-#EXTINF:-1 tvg-id="93. Sky Sports News" tvg-logo="https://i.ibb.co/CwMZcpP/sky-main-event.png",93 Sky Sports News
+#EXTINF:-1 tvg-id="93.1 Sky Sports News" tvg-logo="https://i.ibb.co/CwMZcpP/sky-main-event.png",93 Sky Sports News - Ch. 93.1
 https://a1xs.vip/2000001
 
-#EXTINF:-1 tvg-id="105 AMC (East)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/AMC_logo_2019.svg/512px-AMC_logo_2019.svg.png",105 AMC
+#EXTINF:-1 tvg-id="105 AMC (East)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/AMC_logo_2019.svg/512px-AMC_logo_2019.svg.png",105 AMC - Ch. 105
 http://fl5.moveonjoy.com/AMC_NETWORK/index.m3u8
 
-#EXTINF:-1 tvg-id="110 BBC America" tvg-logo="https://i.imgur.com/pTiiPz0.png",110 BBC America
+#EXTINF:-1 tvg-id="110 BBC America" tvg-logo="https://i.imgur.com/pTiiPz0.png",110 BBC America - Ch. 110
 http://fl2.moveonjoy.com/BBC_AMERICA/index.m3u8
 
-#EXTINF:-1 tvg-id="2.2 CBS News Pittsburgh" tvg-logo="https://image-resizer-cloud-cdn.api.cms.amdvids.com/image/ABA06D0F-F40F-4B16-B881-9F926E1345D1/3-1x1.png/100?webp=1",2.2 CBS News Pittsburgh
+#EXTINF:-1 tvg-id="2.2 CBS News Pittsburgh" tvg-logo="https://image-resizer-cloud-cdn.api.cms.amdvids.com/image/ABA06D0F-F40F-4B16-B881-9F926E1345D1/3-1x1.png/100?webp=1",2.2 CBS News Pittsburgh - Ch. 2.2
 https://cbsn-pit.cbsnstream.cbsnews.com/out/v1/6966dabf8150405ab26f854e3cd6a2b8/master.m3u8
 
-#EXTINF:-1 tvg-id="43 CNBC" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/CNBC_logo.svg/512px-CNBC_logo.svg.png",43 CNBC
+#EXTINF:-1 tvg-id="43 CNBC" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/CNBC_logo.svg/512px-CNBC_logo.svg.png",43 CNBC - Ch. 43
 http://fl2.moveonjoy.com/CNBC/index.m3u8
 
-#EXTINF:-1 tvg-id="60 Disney Channel" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/Disney_Channel_logo_%282014%29.svg/512px-Disney_Channel_logo_%282014%29.svg.png",60 Disney Channel
+#EXTINF:-1 tvg-id="60 Disney Channel" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/Disney_Channel_logo_%282014%29.svg/512px-Disney_Channel_logo_%282014%29.svg.png",60 Disney Channel - Ch. 60
 https://tvpass.org/live/DisneyChannelEast/hd
 
-#EXTINF:-1 tvg-id="265 Disney XD (East)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Disney_XD_-_2015.svg/512px-Disney_XD_-_2015.svg.png",265 Disney XD
+#EXTINF:-1 tvg-id="265 Disney XD (East)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Disney_XD_-_2015.svg/512px-Disney_XD_-_2015.svg.png",265 Disney XD - Ch. 265
 https://tvpass.org/live/DisneyXDEast/hd
 
-#EXTINF:-1 tvg-id="48 FX (East)" tvg-logo="https://i.imgur.com/ZScwrpi.png",48 FX
+#EXTINF:-1 tvg-id="48 FX (East)" tvg-logo="https://i.imgur.com/ZScwrpi.png",48 FX - Ch. 48
 http://fl2.moveonjoy.com/FX/index.m3u8
 
-#EXTINF:-1 tvg-id="81 Grit" tvg-logo="https://i.imgur.com/6w1Wj3j.png",81 Grit
+#EXTINF:-1 tvg-id="81 Grit" tvg-logo="https://i.imgur.com/6w1Wj3j.png",81 Grit - Ch. 81
 http://fl2.moveonjoy.com/GRIT_TV/index.m3u8 
 
-#EXTINF:-1 tvg-id="82 Hallmark Channel" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/Hallmark_Channel.svg/512px-Hallmark_Channel.svg.png",82 Hallmark Channel
+#EXTINF:-1 tvg-id="82 Hallmark Channel" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/Hallmark_Channel.svg/512px-Hallmark_Channel.svg.png",82 Hallmark Channel - Ch. 82
 http://fl2.moveonjoy.com/HALLMARK_CHANNEL/index.m3u8
 
-#EXTINF:-1 tvg-id="511 HBO" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/HBO_logo.svg/512px-HBO_logo.svg.png",511 HBO
+#EXTINF:-1 tvg-id="511 HBO" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/HBO_logo.svg/512px-HBO_logo.svg.png",511 HBO - Ch. 511
 https://list.iptvcat.com/my_list/s/35683a996d90df434a4e82db529c7eec.m3u8
 
-#EXTINF:-1 tvg-id="305 ION TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/28/Ion_logo.svg/512px-Ion_logo.svg.png",305 ION TV
+#EXTINF:-1 tvg-id="305 ION TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/28/Ion_logo.svg/512px-Ion_logo.svg.png",305 ION TV - Ch. 305
 http://fl2.moveonjoy.com/ION_TV/index.m3u8
 
-#EXTINF:-1 tvg-id="305.2 ION+" tvg-logo="https://i.imgur.com/1dgCvNE.png",305 ION+
+#EXTINF:-1 tvg-id="305.2 ION+" tvg-logo="https://i.imgur.com/1dgCvNE.png",305 ION+ - Ch. 305
 http://fl3.moveonjoy.com/ION_Plus/index.m3u8
 
-#EXTINF:-1 tvg-id="176 HSN" tvg-logo="https://m.media-amazon.com/images/I/419RyCp4+WL.png",176 HSN
+#EXTINF:-1 tvg-id="176 HSN" tvg-logo="https://m.media-amazon.com/images/I/419RyCp4+WL.png",176 HSN - Ch. 176
 https://qvc-amd-live.akamaized.net/hls/live/2034113/lshsn1uswest/master.m3u8
 
-#EXTINF:-1 tvg-id="42.1 MSNBC" tvg-logo="https://i.imgur.com/kGUR6NE.png",42.1 MSNBC
+#EXTINF:-1 tvg-id="42.1 MSNBC" tvg-logo="https://i.imgur.com/kGUR6NE.png",42.1 MSNBC - Ch. 42.1
 https://qvc-amd-live.akamaized.net/hls/live/2034113/lshsn1uswest/master.m3u8
 
-#EXTINF:-1 tvg-id="38.1 National Geographic HD" tvg-logo="https://i.imgur.com/8vp2CdP.png",38.1 National Geographic
+#EXTINF:-1 tvg-id="38.1 National Geographic HD" tvg-logo="https://i.imgur.com/8vp2CdP.png",38.1 National Geographic - Ch. 38.1
 https://tvpass.org/live/NationalGeographicEast/hd
 
-#EXTINF:-1 tvg-id="38.2 National Geographic Wild" tvg-logo="https://i.imgur.com/WEv09Ak.png",38.2 National Geographic Wild
+#EXTINF:-1 tvg-id="38.2 National Geographic Wild" tvg-logo="https://i.imgur.com/WEv09Ak.png",38.2 National Geographic Wild - Ch. 38.2
 https://tvpass.org/live/NationalGeographicWildEast/hd
 
-#EXTINF:-1 tvg-id="310.1 NFL Channel" tvg-logo="https://i.imgur.com/mPGtwAP.png",310.1 NFL Channel
+#EXTINF:-1 tvg-id="310.1 NFL Channel" tvg-logo="https://i.imgur.com/mPGtwAP.png",310.1 NFL Channel - Ch. 310.1
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5ced7d5df64be98e07ed47b6/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c2a5105-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=6477ef85-3680-442c-94d8-27197903b1f6
 
-#EXTINF:-1 tvg-id="311 NFL RedZone" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/8/8f/NFL_Network_logo.svg/512px-NFL_Network_logo.svg.png",311 NFL RedZone
+#EXTINF:-1 tvg-id="311 NFL RedZone" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/8/8f/NFL_Network_logo.svg/512px-NFL_Network_logo.svg.png",311 NFL RedZone - Ch. 311
 http://fl2.moveonjoy.com/NFL_NETWORK/index.m3u8
 
-#EXTINF:-1 tvg-id="310.2 NFL Network" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/8/8f/NFL_Network_logo.svg/512px-NFL_Network_logo.svg.png",310.2 NFL Network
+#EXTINF:-1 tvg-id="310.2 NFL Network" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/8/8f/NFL_Network_logo.svg/512px-NFL_Network_logo.svg.png",310.2 NFL Network - Ch. 310.2
 https://tvpass.org/live/NFLRedZone/hd
 
-#EXTINF:-1 tvg-id="59 Nickelodeon" tvg-logo="https://i.imgur.com/E84jnP8.png",59 Nickelodeon
+#EXTINF:-1 tvg-id="59 Nickelodeon" tvg-logo="https://i.imgur.com/E84jnP8.png",59 Nickelodeon - Ch. 59
 http://fl1.moveonjoy.com/NICKELODEON/index.m3u8
 
-#EXTINF:-1 tvg-id="116.1 Paramount Movie Channel" tvg-logo="https://i.imgur.com/sj5h9bl.png",116.1 Paramount Movie Channel
+#EXTINF:-1 tvg-id="116.1 Paramount Movie Channel" tvg-logo="https://i.imgur.com/sj5h9bl.png",116.1 Paramount Movie Channel - Ch. 116.1
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5cb0cae7a461406ffe3f5213/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c2a7819-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=8a4a0712-cb24-4d05-b429-1b98c1f73f74
 
-#EXTINF:-1 tvg-id="32 Paramount Network" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Paramount_Network.svg/512px-Paramount_Network.svg.png",32 Paramount Network
+#EXTINF:-1 tvg-id="32 Paramount Network" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Paramount_Network.svg/512px-Paramount_Network.svg.png",32 Paramount Network - Ch. 32
 http://fl2.moveonjoy.com/PARAMOUNT_NETWORK/index.m3u8
 
-#EXTINF:-1 tvg-id="116.2 Paramount+ Picks" tvg-logo="https://images.pluto.tv/channels/5ff8c708653d080007361b14/featuredImage.jpg",116.2 Paramount+ Picks
+#EXTINF:-1 tvg-id="116.2 Paramount+ Picks" tvg-logo="https://images.pluto.tv/channels/5ff8c708653d080007361b14/featuredImage.jpg",116.2 Paramount+ Picks - Ch. 116.2
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5ff8c708653d080007361b14/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c2a9f20-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=86df5336-6268-4928-9b7d-3af618ca807b
 
-#EXTINF:-1 tvg-id="13.1 PBS (West)" tvg-logo="https://i.imgur.com/vQ7F7zg.png",13.1 PBS
+#EXTINF:-1 tvg-id="13.1 PBS (West)" tvg-logo="https://i.imgur.com/vQ7F7zg.png",13.1 PBS - Ch. 13.1
 https://pbs.lls.cdn.pbs.org/pst/index.m3u8
 
 #EXTINF:-1 tvg-id="13.2 PBS Kids (Mountain)" tvg-logo="https://i.imgur.com/q4cUQKW.png",13.2 PBS Kids
